@@ -1248,3 +1248,42 @@
 [INFO] [23/10  05.22:14] picas_dashboard page is displayed successfully
 [INFO] [23/10  05.22:14] Closing Browser
 [INFO] [23/10  05.22:15] ################################################################
+[INFO] [20/11  03.38:58] 2021/11/20 15:38:58
+[INFO] [20/11  03.38:58] 1120153858
+[INFO] [20/11  03.38:59] Calling Re-usable component Login actions 
+[INFO] [20/11  03.38:59] Launching browser chrome
+[INFO] [20/11  03.39:03] failing launching Browser
+[INFO] [20/11  03.50:29] 2021/11/20 15:50:29
+[INFO] [20/11  03.50:29] 1120155029
+[INFO] [20/11  03.50:29] Calling Re-usable component Login actions 
+[INFO] [20/11  03.50:29] Launching browser chrome
+[INFO] [20/11  03.50:44] Navigating to URL http://automationpractice.com/
+[INFO] [20/11  03.50:44] Value of the proovided Login_SignIn_Button_xpath  = ://*[@class='login']
+[INFO] [20/11  03.50:47] Performing click on signin  
+[INFO] [20/11  03.50:47] Performing Login operation
+[INFO] [20/11  03.50:47] Value of the proovided Login_userName_txtBox_id  = :email
+[INFO] [20/11  03.50:48] Username entered : gcreddy1997@gmail.com
+[INFO] [20/11  03.50:48] Value of the proovided Login_password_txtbox_name  = :passwd
+[INFO] [20/11  03.50:49] Password entered : Test@1234
+[INFO] [20/11  03.50:49] Value of the proovided Login_submit_button_id  = :SubmitLogin
+[INFO] [20/11  03.50:53] Submit button clicked
+[INFO] [20/11  03.50:53] picas_dashboard page is displayed successfully
+[INFO] [20/11  03.50:53] Closing Browser
+[INFO] [20/11  03.50:54] ################################################################
+[INFO] [20/11  03.51:48] 2021/11/20 15:51:48
+[INFO] [20/11  03.51:48] 1120155148
+[INFO] [20/11  03.51:48] Calling Re-usable component Login actions 
+[INFO] [20/11  03.51:48] Launching browser chrome
+[INFO] [20/11  03.52:01] Navigating to URL http://automationpractice.com/
+[INFO] [20/11  03.52:01] Value of the proovided Login_SignIn_Button_xpath  = ://*[@class='login']
+[INFO] [20/11  03.52:04] Performing click on signin  
+[INFO] [20/11  03.52:04] Performing Login operation
+[INFO] [20/11  03.52:04] Value of the proovided Login_userName_txtBox_id  = :email
+[INFO] [20/11  03.52:05] Username entered : gcreddy1997@gmail.com
+[INFO] [20/11  03.52:05] Value of the proovided Login_password_txtbox_name  = :passwd
+[INFO] [20/11  03.52:07] Password entered : Test@1234
+[INFO] [20/11  03.52:07] Value of the proovided Login_submit_button_id  = :SubmitLogin
+[INFO] [20/11  03.52:10] Submit button clicked
+[INFO] [20/11  03.52:10] picas_dashboard page is displayed successfully
+[INFO] [20/11  03.52:10] Closing Browser
+[INFO] [20/11  03.52:11] ################################################################

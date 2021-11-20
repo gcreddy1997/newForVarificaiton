@@ -10,7 +10,7 @@ public class Constant {
 	
 	public static final String config_path = System.getProperty("user.dir")+"\\src\\test\\resources\\Repositories\\Config.properties";
 	
-	public static final String chromepath = System.getProperty("user.dir")+"\\Driver1\\chromedriver.exe";
+	public static final String chromepath = System.getProperty("user.dir")+"\\Driver2\\chromedriver.exe";
 	
 	public static final String log4jpath = System.getProperty("user.dir")+"\\log4j.xml";
 	

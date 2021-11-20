@@ -3,15 +3,6 @@
 <suite name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.gcreddyClasses.selenium.LoggerClass.AutomationPractice_LoginActions">
-        <methods>
-          <include name="FLushReports"/>
-          <include name="closeBrowser"/>
-          <include name="LiginActions"/>
-          <include name="intiliaseFiles"/>
-          <include name="browserAndURLInvocation"/>
-        </methods>
-      </class> <!-- com.gcreddyClasses.selenium.LoggerClass.AutomationPractice_LoginActions -->
       <class name="com.gcreddyClasses.selenium.LoggerClass.Dress_Selection">
         <methods>
           <include name="FLushReports"/>

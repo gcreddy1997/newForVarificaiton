@@ -111,7 +111,7 @@
 
 					<suiteXmlFiles>
 						<suiteXmlFile>TestNG.xml</suiteXmlFile> 
-				  		<suiteXmlFile>TestNG2.xml</suiteXmlFile> 				
+				  				
 						  					 
 					</suiteXmlFiles> 			
 			  	

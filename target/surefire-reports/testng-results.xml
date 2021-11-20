@@ -1,61 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="29241" started-at="2021-10-23T17:21:21 IST" finished-at="2021-10-23T17:21:50 IST">
+  <suite started-at="2021-11-20T15:51:48 IST" name="Suite" finished-at="2021-11-20T15:52:11 IST" duration-ms="23453">
     <groups>
     </groups>
-    <test name="Test" duration-ms="29241" started-at="2021-10-23T17:21:21 IST" finished-at="2021-10-23T17:21:50 IST">
+    <test started-at="2021-11-20T15:51:48 IST" name="Test" finished-at="2021-11-20T15:52:11 IST" duration-ms="23453">
       <class name="com.gcreddyClasses.selenium.LoggerClass.Dress_Selection">
-        <test-method status="PASS" signature="intiliaseFiles()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@57536d79]" name="intiliaseFiles" is-config="true" duration-ms="224" started-at="2021-10-23T17:21:20 IST" finished-at="2021-10-23T17:21:21 IST">
+        <test-method is-config="true" signature="intiliaseFiles()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@192c3f1e]" started-at="2021-11-20T15:51:47 IST" name="intiliaseFiles" finished-at="2021-11-20T15:51:48 IST" duration-ms="254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intiliaseFiles -->
-        <test-method status="PASS" signature="loginActions_validData()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@57536d79]" name="loginActions_validData" is-config="true" duration-ms="28323" started-at="2021-10-23T17:21:21 IST" finished-at="2021-10-23T17:21:49 IST">
+        <test-method is-config="true" signature="loginActions_validData()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@192c3f1e]" started-at="2021-11-20T15:51:48 IST" name="loginActions_validData" finished-at="2021-11-20T15:52:10 IST" duration-ms="22875" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginActions_validData -->
-        <test-method status="PASS" signature="DressSelection()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@57536d79]" name="DressSelection" duration-ms="2" started-at="2021-10-23T17:21:49 IST" finished-at="2021-10-23T17:21:49 IST">
+        <test-method signature="DressSelection()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@192c3f1e]" started-at="2021-11-20T15:52:10 IST" name="DressSelection" finished-at="2021-11-20T15:52:10 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DressSelection -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@57536d79]" name="endTest" is-config="true" duration-ms="3" started-at="2021-10-23T17:21:49 IST" finished-at="2021-10-23T17:21:49 IST">
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@192c3f1e]" started-at="2021-11-20T15:52:10 IST" name="endTest" finished-at="2021-11-20T15:52:11 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
-        <test-method status="PASS" signature="FLushReports()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@57536d79]" name="FLushReports" is-config="true" duration-ms="820" started-at="2021-10-23T17:21:49 IST" finished-at="2021-10-23T17:21:50 IST">
+        <test-method is-config="true" signature="FLushReports()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@192c3f1e]" started-at="2021-11-20T15:52:11 IST" name="FLushReports" finished-at="2021-11-20T15:52:11 IST" duration-ms="518" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FLushReports -->
       </class> <!-- com.gcreddyClasses.selenium.LoggerClass.Dress_Selection -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
-  <suite name="Suite (0)" duration-ms="25230" started-at="2021-10-23T17:21:50 IST" finished-at="2021-10-23T17:22:15 IST">
-    <groups>
-    </groups>
-    <test name="Test" duration-ms="25230" started-at="2021-10-23T17:21:50 IST" finished-at="2021-10-23T17:22:15 IST">
-      <class name="com.gcreddyClasses.selenium.LoggerClass.Dress_Selection">
-        <test-method status="PASS" signature="intiliaseFiles()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@79be0360]" name="intiliaseFiles" is-config="true" duration-ms="8" started-at="2021-10-23T17:21:50 IST" finished-at="2021-10-23T17:21:50 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- intiliaseFiles -->
-        <test-method status="PASS" signature="loginActions_validData()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@79be0360]" name="loginActions_validData" is-config="true" duration-ms="25099" started-at="2021-10-23T17:21:50 IST" finished-at="2021-10-23T17:22:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginActions_validData -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@79be0360]" name="endTest" is-config="true" duration-ms="1" started-at="2021-10-23T17:22:15 IST" finished-at="2021-10-23T17:22:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-        <test-method status="PASS" signature="DressSelection()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@79be0360]" name="DressSelection" duration-ms="0" started-at="2021-10-23T17:22:15 IST" finished-at="2021-10-23T17:22:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- DressSelection -->
-        <test-method status="PASS" signature="FLushReports()[pri:0, instance:com.gcreddyClasses.selenium.LoggerClass.Dress_Selection@79be0360]" name="FLushReports" is-config="true" duration-ms="126" started-at="2021-10-23T17:22:15 IST" finished-at="2021-10-23T17:22:15 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- FLushReports -->
-      </class> <!-- com.gcreddyClasses.selenium.LoggerClass.Dress_Selection -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite (0) -->
 </testng-results>
